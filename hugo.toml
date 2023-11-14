@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kcheart.github.io/quickstart/'
 languageCode = 'en-us'
 title = 'Kevin IT Notes 2023'
 theme = 'stack'
