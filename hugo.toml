@@ -1,7 +1,8 @@
 baseURL = 'https://kcheart.github.io/quickstart/'
 languageCode = 'en-us'
 
-RelativeURLs=true
-CanonifyURLs=true
+relativeURLs=true
+canonifyURLs=true
+
 title = 'Kevin IT Notes 2023'
 theme = 'PaperMod'
