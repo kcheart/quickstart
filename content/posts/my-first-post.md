@@ -2,6 +2,9 @@
 title = 'My First Post'
 date = 2023-11-14T15:46:27+08:00
 draft = false
+
+summary = 'Use Hugo to setup website'
+
 +++
 
 # IT Notes
@@ -9,7 +12,7 @@ draft = false
 Hogo 指令教學:
 
 
-```
+```shell
 hugo new site quickstart
 cd quickstart
 
@@ -24,3 +27,8 @@ hugo new content posts/my-first-post.md
 
 hugo server -D
 ```
+
+Plan and Reality:
+
+![Plan vs Reality](plan_and_reality.jpg)
+
