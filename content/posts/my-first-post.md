@@ -28,7 +28,14 @@ hugo new content posts/my-first-post.md
 hugo server -D
 ```
 
-Plan and Reality:
+Plan and Reality 1:
 
 ![Plan vs Reality](plan_and_reality.jpg)
 
+Plan and Reality 2:
+
+![Plan vs Reality](/plan_and_reality.jpg)
+
+Plan and Reality 3:
+
+![Plan vs Reality](/images/plan_and_reality.jpg)
