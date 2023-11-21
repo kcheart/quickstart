@@ -32,7 +32,7 @@ Plan and Reality 1:
 
 ![Plan vs Reality](plan_and_reality.jpg)
 
-Plan and Reality 2:
+Plan and Reality 2 (static):
 
 ![Plan vs Reality](/plan_and_reality.jpg)
 
@@ -44,6 +44,6 @@ Plan and Reality 4:
 
 ![Plan vs Reality](images/plan_and_reality.jpg)
 
-Plan and Reality 5:
+Plan and Reality 5 (quickstart):
 
 ![Plan vs Reality](/quickstart/plan_and_reality.jpg)

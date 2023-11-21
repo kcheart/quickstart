@@ -1,6 +1,9 @@
 baseURL = 'https://kcheart.github.io/quickstart/'
 languageCode = 'en-us'
 
+relativeURLs = true
+canonifyURLs = true
+
 publishDir = 'docs'
 
 title = 'Kevin IT Notes 2023'
