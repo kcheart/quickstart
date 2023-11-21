@@ -43,3 +43,7 @@ Plan and Reality 3:
 Plan and Reality 4:
 
 ![Plan vs Reality](images/plan_and_reality.jpg)
+
+Plan and Reality 5:
+
+![Plan vs Reality](/quickstart/plan_and_reality.jpg)
