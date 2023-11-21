@@ -39,3 +39,7 @@ Plan and Reality 2:
 Plan and Reality 3:
 
 ![Plan vs Reality](/images/plan_and_reality.jpg)
+
+Plan and Reality 4:
+
+![Plan vs Reality](images/plan_and_reality.jpg)
